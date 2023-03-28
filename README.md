@@ -32,7 +32,7 @@ python traductor_po.py
 |af	| Afrikáans
 sq	|Albanés
 am	|Amárico
-ar	||Árabe
+ar	|Árabe
 hy	|Armenio
 az	|Azerí
 eu	|Vasco
@@ -54,7 +54,7 @@ en	|Inglés
 eo	|Esperanto
 et	|Estonio
 fi	|Finlandés
-fr	||Francés
+fr	|Francés
 fy	|Frisón
 gl	|Gallego
 ka	|Georgiano

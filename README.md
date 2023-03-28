@@ -19,8 +19,6 @@ pip install polib
 
 ## Uso
 
-- Si deseas cambiar el idioma de origen y destino de la traducción, cambia los valores de los parámetros source_language y target_language en la función translate_text.
-- Si deseas cambiar el archivo .PO que se va a traducir, cambia el valor del parámetro en la línea po_file = polib.pofile('archivo.po') por el nombre del archivo .PO que deseas traducir.
 - Ejecuta el script utilizando el siguiente comando en la terminal:
 ```bash
 python traductor_po.py

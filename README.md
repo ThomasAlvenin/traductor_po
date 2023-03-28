@@ -10,8 +10,8 @@ Este script en Python utiliza la API de Google Translate para traducir un archiv
 
 ## Instalación
 
-Clona o descarga el repositorio en tu computadora.                                         
-Instala la librería polib utilizando el siguiente comando en la terminal:
+- Clona o descarga el repositorio en tu computadora.                                         
+- Instala la librería polib utilizando el siguiente comando en la terminal:
 
 ```bash
 pip install polib
